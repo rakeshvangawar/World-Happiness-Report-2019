@@ -7,6 +7,6 @@ The data is gotten from kaggle (https://www.kaggle.com/unsdsn/world-happiness)
 # Task performed:
 
 * Importing, cleaning and numerical summaries using Pandas
-* Exploratory data anlysis with seaborn and matplotlib
+* Exploratory data analysis with seaborn and matplotlib
 * Obtain the correlation between the Happiness Score and each of the other variables
 * Exploratory data analysis with Choropleth, Bubble charts and Plotly
